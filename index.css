@@ -1,0 +1,27 @@
+.block {
+  background-color: rgb(38, 27, 61);
+
+  border-radius: 25px;
+  box-shadow: 2px;
+  width: 70%;
+}
+
+.donateButton {
+  background-color: #ef4e7b;
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.donateButton:hover {
+  text-decoration: none;
+  color: white;
+}
+.head {
+  color: white;
+  font-size: 45px;
+  margin: 40px 0px;
+}
