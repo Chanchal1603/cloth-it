@@ -5,6 +5,14 @@
   box-shadow: 2px;
   width: 70%;
 }
+.anchorButton {
+  text-decoration: none;
+  color: white;
+}
+.anchorButton:hover {
+  text-decoration: none;
+  color: white;
+}
 
 .block-white {
   background-color: white;
